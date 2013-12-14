@@ -1,0 +1,4 @@
+adamaths
+========
+
+math software curiosities
